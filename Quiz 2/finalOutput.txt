@@ -1,0 +1,194 @@
+/usr/lib/jvm/jdk-15.0.2/bin/java -javaagent:/home/vusal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7148.57/lib/idea_rt.jar=33405:/home/vusal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7148.57/bin -Dfile.encoding=UTF-8 -classpath /media/vusal/HDD/GitHub/Data-Structures/Quiz 2/out/production/Quiz 2 com.company.Main
+Start off Class Information:
+Number of registered under grad students: 0
+Number of registered grad students: 0
+Course Name: Data Structures Lab
+
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+1 student has been unregistered fromData Structures Lab class!
+There are no any grad student who has registered to this course yet!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Under Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+New Grad Student has been registered to Data Structures Lab course!
+
+Final Class Information:
+Number of registered under grad students: 100
+Number of registered grad students: 50
+Course Name: Data Structures Lab
+
+Process finished with exit code 0
