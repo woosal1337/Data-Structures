@@ -6,6 +6,7 @@ public class GradCourse extends CourseRegistration {
 
     public GradCourse(int numberOfRegisteredUnderGradStudents, int numberOfRegisteredGradStudents, String courseName, int maximumClassSize, int underGradQuota) {
         super(numberOfRegisteredUnderGradStudents, numberOfRegisteredGradStudents, courseName, maximumClassSize);
+
         this.underGradQuota = underGradQuota;
     }
 
@@ -20,6 +21,7 @@ public class GradCourse extends CourseRegistration {
             return "The maximum class size has been reached! Unfortunately, you can not take this class!";
         } else {
             this.numberOfRegisteredUnderGradStudents += students;
+            System.out.println(students + " student have been registered to the " + this.courseName + " course!");
             return (students + " student have been registered to the " + this.courseName + " course!");
         }
     }
@@ -38,7 +40,7 @@ public class GradCourse extends CourseRegistration {
 
     // Registering the Grad students -> if only the maximumClassSize condition is met, student can take class instantly besides the undergrad students
     public String registerGrad(int students) {
-        if (this.numberOfRegisteredGradStudents + students > this.maximumClassSize) {
+        if (this.numberOfRegisteredGradStudents + this.numberOfRegisteredUnderGradStudents + students > this.maximumClassSize) {
             System.out.println("The maximum class size has been reached! Unfortunately, you can not take this class!");
             return "The maximum class size has been reached! Unfortunately, you can not take this class!";
         } else {
