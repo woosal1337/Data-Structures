@@ -1,0 +1,7 @@
+In order to solve this problem, I have created a base class, so I can easily use it to inherit 2 new classes: "GradCourses" & "UnderGradCourses"
+accordingly. While integrating a simple logging system in the background, so the user can also keep the track of each action happening by the 
+program in the background, for the case of "GradCourses", which is a special case, and required an additional argument of underGradQuota besides the
+UnderGradCourses class. As a result, on top of the arguments taken from the base "CourseRegistration" class, a brand new argument was requested by the
+user, so this case would also be possible to be consider in the conditional function statements.
+
+// Feel free to check the codes also on my GitHub Page: https://github.com/woosal1337/Data-Structures/tree/main/Homework%201

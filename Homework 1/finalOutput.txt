@@ -1,0 +1,83 @@
+/usr/lib/jvm/jdk-15.0.2/bin/java -javaagent:/home/vusal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7148.57/lib/idea_rt.jar=35125:/home/vusal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7148.57/bin -Dfile.encoding=UTF-8 -classpath /media/vusal/HDD/GitHub/Data-Structures/Homework 1/out/production/Homework 1 com.company.Main
+Scenario 1:
+
+Starting Class info:
+Number of registered under grad students: 0
+Number of registered grad students: 0
+Course Name: UnderGrad Data Structures Course
+Maximum class size: 20
+
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+This is undergrad only course, grad students can not take this course!
+This is undergrad only course, grad students can not take this course!
+This is undergrad only course, grad students can not take this course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+1 student have been registered to the UnderGrad Data Structures Course course!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+1 student have been unregistered from the UnderGrad Data Structures Course course!
+
+Final Class info:
+Number of registered under grad students: 13
+Number of registered grad students: 0
+Course Name: UnderGrad Data Structures Course
+Maximum class size: 20
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+Starting Grad Class info:
+Number of registered under grad students: 0
+Number of registered grad students: 0
+Course Name: Grad Data Structures Course
+Maximum class size: 10
+Undergrad Quota:4
+
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+The quote for the undergrad students has been reached for this course! Unfortunately, you can not take this class!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+1 students have been unregistered from the Grad Data Structures Course course!
+1 student have been registered to the Grad Data Structures Course course!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+The maximum class size has been reached! Unfortunately, you can not take this class!
+
+Final Grad Class info:
+Number of registered under grad students: 3
+Number of registered grad students: 7
+Course Name: Grad Data Structures Course
+Maximum class size: 10
+Undergrad Quota:4
+
+Process finished with exit code 0
