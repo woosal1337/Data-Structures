@@ -1,0 +1,10 @@
+The nodes and their actions were already described in the given java file. Changes were made in order to set the according
+conditions:
+
+    1) Change the first element with the last
+    2) Change the first element with the second
+    3) Change the second element with the first (Takes the case back to the first)
+
+The general idea standing behind the 1st and the 2nd conditions are the same, replace the first value with the second,
+however, the order is different. As in the swapElements function 3 conditions were met according to the node change input,
+there should be no error faced regarding to the logic and the idea standing behind the code.

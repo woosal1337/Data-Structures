@@ -1,14 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f6f9451-b2b1-45c5-abc0-ec7ac2293d08" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Quiz 1.iml" afterDir="false" />
+    <list default="true" id="7e79a47f-45d8-41ca-889a-336ae4ba240d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Quiz 1/.idea/Quiz 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Quiz 1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/General Idea" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quiz 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/DoublyLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Quiz 1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Quiz 1/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +24,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1pL3HoefSjyPozaRBevb6QrKc2q" />
+  <component name="ProjectId" id="1pydyswibdHh1ypU7gRnki5TMp6" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -82,23 +88,33 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/com/company" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="15" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="MAIN_CLASS_NAME" value="com.company" />
-      <module name="Quiz 1" />
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="Quiz 3" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -112,23 +128,16 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="7f6f9451-b2b1-45c5-abc0-ec7ac2293d08" name="Default Changelist" comment="" />
-      <created>1614948459307</created>
+      <changelist id="7e79a47f-45d8-41ca-889a-336ae4ba240d" name="Default Changelist" comment="" />
+      <created>1616159522529</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1614948459307</updated>
-      <workItem from="1614948461421" duration="459000" />
-      <workItem from="1614948932039" duration="35000" />
-      <workItem from="1615826633312" duration="151000" />
-      <workItem from="1615826798003" duration="157000" />
-      <workItem from="1615826986245" duration="306000" />
+      <updated>1616159522529</updated>
+      <workItem from="1616159524593" duration="2579000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
