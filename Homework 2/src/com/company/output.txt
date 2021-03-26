@@ -1,0 +1,72 @@
+/usr/lib/jvm/jdk-15.0.2/bin/java -javaagent:/home/woosal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7717.56/lib/idea_rt.jar=43419:/home/woosal/.local/share/JetBrains/Toolbox/apps/IDEA-U/ch-0/203.7717.56/bin -Dfile.encoding=UTF-8 -classpath /media/woosal/HDD/GitHub/Data-Structures/Homework 2/out/production/Homework 2 com.company.Main
+Students with A  grade:
+Students with B  grade:Student ID1 Student ID6 Student ID9
+Students with C  grade:Student ID2 Student ID3 Student ID8
+Students with F grade:Student ID4 Student ID5 Student ID7 Student ID10 Student ID11 Student ID12 Student ID13 Student ID14 Student ID15
+
+Resit exam for the people who failed
+
+Students with A  grade:
+Students with B  grade:Student ID6 Student ID9
+Students with C  grade:Student ID2 Student ID3 Student ID8
+Students with F grade:Student ID1 Student ID4 Student ID5 Student ID7 Student ID10 Student ID11 Student ID12 Student ID13 Student ID14 Student ID15
+
+Course Name: Data Structures
+Student Number: 15
+
+Student ID1: 35
+Student ID2: 65
+Student ID3: 72
+Student ID4: 36
+Student ID5: 43
+Student ID6: 84
+Student ID7: 12
+Student ID8: 68
+Student ID9: 88
+Student ID10: 35
+Student ID11: 16
+Student ID12: 6
+Student ID13: 29
+Student ID14: 51
+Student ID15: 38
+
+
+
+Students with letter grade A:  Student ID2 Student ID4 Student ID5
+
+Grade of the students: B:  Student ID12
+
+Grade of the students: C:
+
+Grade of the students: F:  Student ID1 Student ID3 Student ID6 Student ID7 Student ID8 Student ID9 Student ID10 Student ID11 Student ID13 Student ID14 Student ID15
+
+Resit exam for the people who failed
+
+Students with letter grade A:  Student ID2 Student ID3 Student ID4 Student ID5 Student ID7 Student ID15
+
+Grade of the students: B:  Student ID10 Student ID12 Student ID13
+
+Grade of the students: C:
+
+Grade of the students: F:  Student ID1 Student ID6 Student ID8 Student ID9 Student ID11 Student ID14
+
+Course Name: Calculus
+Number of students: 15
+Student ID1: 14
+Student ID2: 94
+Student ID3: 100
+Student ID4: 98
+Student ID5: 90
+Student ID6: 12
+Student ID7: 97
+Student ID8: 40
+Student ID9: 1
+Student ID10: 76
+Student ID11: 22
+Student ID12: 77
+Student ID13: 77
+Student ID14: 17
+Student ID15: 95
+
+
+Process finished with exit code 0

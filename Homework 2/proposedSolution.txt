@@ -1,0 +1,8 @@
+In this question, we are asked to create 2 different classes, one representing a new class, which
+is supposed to generate random 15 grades for the given 15 students, and do it while being written
+in OOP (Object Oriented Programming) way. And another class, in the first class, as array was used
+in order to keep the track of each student, and their grades. In the second part, the array will be
+replaced by a Doubly Linked List while keeping the general idea and the logic the same.
+
+A custom Linkedin List was used to be integrated with the DoublyCourseGrades class.
+All the functions and the classes have been created and assigned accordingly.
