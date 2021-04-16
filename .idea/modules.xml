@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Data-Structures.iml" filepath="$PROJECT_DIR$/.idea/Data-Structures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework 1/Homework 1.iml" filepath="$PROJECT_DIR$/Homework 1/Homework 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Homework 2/Homework 2.iml" filepath="$PROJECT_DIR$/Homework 2/Homework 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz 1/Quiz 1.iml" filepath="$PROJECT_DIR$/Quiz 1/Quiz 1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz 2/Quiz 2.iml" filepath="$PROJECT_DIR$/Quiz 2/Quiz 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz 3/Quiz 3.iml" filepath="$PROJECT_DIR$/Quiz 3/Quiz 3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quiz 4/Quiz 4.iml" filepath="$PROJECT_DIR$/Quiz 4/Quiz 4.iml" />
+    </modules>
+  </component>
+</project>
