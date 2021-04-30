@@ -1,0 +1,19 @@
+Considering the given is not really complex, however, quite detailed, it did take some time to include all these tiny details within
+the same class. 
+
+To begin with, all the requirements were met within the code, such as all the appropriate class names, Double-ended Queue, which is
+actually tracking the customers and their arrival time to the restaurant. If the customer was served, it gets deattached from the 
+current queue and is being added to a new list called as ServedCustomers. However, even though the customer was served, but was not
+happy with their current table, they are added to the top of the queue back again. There was an "if" statement added where a randomly
+generated time was checked within this condition, and if the generated waiting time for the given customer surpasses the given time,
+which is 30 minutes exactly, then that customer is going to leave the restaurant while being logged.
+
+DoublyLinkedList was implemented within the class and was included in the RestaurantWaitList class. TestRestaurant class was created,
+and includes the details to test the given test partion. 
+
+A custom name list was grabbed from GitHub in order not to leave the customer names empty in the list. 
+
+As the restaurant is working only between 3 and 10, a custom time calculation functions are also included within the class, whereas,
+the hours are converted to the minutes also, and they are each seperatly also checked with the conditions in order to check whether
+the restaurant is closed or not with less than 3 or greater than 10 conditions. Each of the taken actions one-by-one are logged into
+the system, so does not matter what the action is, it will always be logged.
