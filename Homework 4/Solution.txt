@@ -1,0 +1,9 @@
+In the question, it was clearly mentioned that while having multiple players in the ChessTournament, they are supposed
+to be tracked and compared after each action is taken. While having multiple classes as followed: "Players", "ChessTournament"
+and finally "ComparePlayers", the full system structure was maintained successfully. By using a Priority Queue, the ChessTournament
+class is taking care of whom to add, move, and modify within the queue. A special random value generator function was also included
+in the class in order to generate random point values for the players, regarding which the final and the further points are gained.
+
+Not to mention, the whole flow is going to finish as soon as any of the players reach the 10 games in total. The loop is going to break
+causing a final result in the terminal as was shared in the Output.png in the same directory. While printing the final results to the terminal,
+as was asked, it is going to print the players and their according scores in a descending order, in other words, from the highest to the lowest.
