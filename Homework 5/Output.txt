@@ -1,0 +1,91 @@
+"C:\Program Files\Java\jdk-16.0.1\bin\java.exe" -javaagent:C:\Users\woosal\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.7442.40\lib\idea_rt.jar=56866:C:\Users\woosal\AppData\Local\JetBrains\Toolbox\apps\IDEA-U\ch-0\211.7442.40\bin -Dfile.encoding=UTF-8 -classpath "D:\GitHub\Data-Structures\Homework 5\out\production\Homework 5" TestWorldCup
+Player18 passed instantly.
+Player11 wins the quarter final
+Player18 passed instantly.
+Player15 wins the quarter final
+Player11 wins the semi final
+Player18 passed instantly.
+Player11 wins the final
+Full Match Log:
+Player Name: Player1
+Total Played: 3
+Number of Wins: 21
+Log: [+, +, -]
+Player Name: Player2
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player3
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player4
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+Player Name: Player5
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player6
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+Player Name: Player7
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player8
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+Player Name: Player9
+Total Played: 3
+Number of Wins: 21
+Log: [+, +, -]
+Player Name: Player10
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player11
+Total Played: 3
+Number of Wins: 30
+Log: [+, +, +]
+Player Name: Player12
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player13
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+Player Name: Player14
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player15
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+Player Name: Player16
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player17
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player18
+Total Played: 7
+Number of Wins: 61
+Log: [+, +, +, +, +, +, -]
+Player Name: Player19
+Total Played: 1
+Number of Wins: 01
+Log: [-]
+Player Name: Player20
+Total Played: 2
+Number of Wins: 11
+Log: [+, -]
+
+Process finished with exit code 0
