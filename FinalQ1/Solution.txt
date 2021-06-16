@@ -1,0 +1,16 @@
+This is actually a pretty simple algorithm, however, not to mention, there is a just a simple issue with the Binary
+Search, which is with the duplicated values. Binary Search indeed returns the position of the looking for inputs values,
+but in order to also check all the duplicated values' indexes and return all of them, each time, whole array is supposed
+to be iterated completely from the beginning to the end. Usually, if the given input is found it breaks the loop, which
+means there will be actually situations in which, there is also a chance to have better than the worst case scenario,
+for instance if the value we are looking for is at the first index, however, in order to check whether the array has any
+other duplicates or not, there are 2 ways to continue with. The first one is actually sorting the array itself, which
+would definitely increase the efficiency of the algorithm, the next one is literally iterating over each value that is in
+the non-sorted array. Considering that the array to be used is going to have multiple duplicated, the Big-O notation formula
+below demonstrates the running time complexity of the algorithm:
+
+The reason the recursive algorithm is going to be used, recursive Big-O notation is O(log(n)) whereas, the n is the length
+of the given array. If more than one inputs were given to be checked in the array, the following formula demonstrates the
+additional time to also check for each of the other inputs, which will be summed with the O(log(n)) above:
+                            O(log(n) + (s-1))
+whereas, the S is the length of the array, which was given as input to be returned.
